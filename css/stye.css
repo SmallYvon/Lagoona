@@ -2,8 +2,8 @@
 @font-face {
     font-family: 'Muller';
     src: local('Muller Regular'), local('MullerRegular'),
-        url('/fonts/MullerRegular.woff2') format('woff2'),
-        url('/fonts/MullerRegular.woff') format('woff');
+        url('fonts/MullerRegular.woff2') format('woff2'),
+        url('fonts/MullerRegular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
@@ -11,8 +11,8 @@
 @font-face {
     font-family: 'Muller';
     src: local('Muller Medium'), local('MullerMedium'),
-        url('/fonts/MullerMedium.woff2') format('woff2'),
-        url('/fonts/MullerMedium.woff') format('woff');
+        url('fonts/MullerMedium.woff2') format('woff2'),
+        url('fonts/MullerMedium.woff') format('woff');
     font-weight: 500;
     font-style: normal;
 }
@@ -20,8 +20,8 @@
 @font-face {
     font-family: 'Muller';
     src: local('Muller Bold'), local('MullerBold'),
-        url('/fonts/MullerBold.woff2') format('woff2'),
-        url('/fonts/MullerBold.woff') format('woff');
+        url('fonts/MullerBold.woff2') format('woff2'),
+        url('fonts/MullerBold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
 }
@@ -30,8 +30,8 @@
 @font-face {
     font-family: 'Muller';
     src: local('Muller Light'), local('MullerLight'),
-        url('/fonts/MullerLight.woff2') format('woff2'),
-        url('/fonts/MullerLight.woff ') format('woff');
+        url('fonts/MullerLight.woff2') format('woff2'),
+        url('fonts/MullerLight.woff ') format('woff');
     font-weight: 300;
     font-style: normal;
 }
@@ -238,17 +238,17 @@ link {
 }
 
 .card-one { 
-    background: linear-gradient(90deg, rgba(48, 64, 89, 0.84) -2.9%, rgba(53, 65, 83, 0) 65.7%), url('/img/maldives.jpg') center no-repeat; 
+    background: linear-gradient(90deg, rgba(48, 64, 89, 0.84) -2.9%, rgba(53, 65, 83, 0) 65.7%), url('img/maldives.jpg') center no-repeat; 
     background-size: cover; 
 }
 
 .card_two { 
-    background: linear-gradient(90deg, rgba(48, 64, 89, 0.84) -2.9%, rgba(53, 65, 83, 0) 65.7%), url('/img/two-card.jpg') center no-repeat; 
+    background: linear-gradient(90deg, rgba(48, 64, 89, 0.84) -2.9%, rgba(53, 65, 83, 0) 65.7%), url('img/two-card.jpg') center no-repeat; 
     background-size: cover; 
 }
 
 .card-main { 
-    background: url('/img/three-card.png') center no-repeat; 
+    background: url('img/three-card.png') center no-repeat; 
     background-size: cover; 
 }
 
@@ -411,22 +411,22 @@ link {
 }
 
 .services-card__image_one {
-    background: url('/img/card1.png') no-repeat transparent;
+    background: url('img/card1.png') no-repeat transparent;
     background-size: contain 100%;
 }
 
 .services-card__image_two {
-    background: url('/img/card2.png') no-repeat transparent;
+    background: url('img/card2.png') no-repeat transparent;
     background-size: contain 100%;
 }
 
 .services-card__image_three {
-    background: url('/img/card3.png') no-repeat transparent;
+    background: url('img/card3.png') no-repeat transparent;
     background-size: contain 100%;
 }
 
 .services-card__image_four {
-    background: url('/img/card4.png') no-repeat transparent;
+    background: url('img/card4.png') no-repeat transparent;
     background-size: contain 100%;
 }
 
@@ -455,7 +455,7 @@ link {
 }
 
 .img-bathtub {
-    background-image: url('/img/bathtub.svg');
+    background-image: url('img/bathtub.svg');
     background-repeat: no-repeat;
     background-size: contain;
     width: 64px;
@@ -463,7 +463,7 @@ link {
 }
 
 .img-hanger {
-    background-image: url('/img/hanger.svg');
+    background-image: url('img/hanger.svg');
     background-repeat: no-repeat;
     background-size: contain;
     width: 67px;
@@ -471,7 +471,7 @@ link {
 }
 
 .img-heating {
-    background-image: url('/img/heating.svg');
+    background-image: url('img/heating.svg');
     background-repeat: no-repeat;
     background-size: contain;
     width: 64px;
@@ -479,7 +479,7 @@ link {
 }
 
 .img-hotel-key {
-    background-image: url('/img/hotel-key.svg');
+    background-image: url('img/hotel-key.svg');
     background-repeat: no-repeat;
     background-size: contain;
     width: 66px;
@@ -487,7 +487,7 @@ link {
 }
 
 .img-parking {
-    background-image: url('/img/parking.svg');
+    background-image: url('img/parking.svg');
     background-repeat: no-repeat;
     background-size: contain;
     width: 66px;
@@ -495,7 +495,7 @@ link {
 }
 
 .img-reception {
-    background-image: url('/img/reception.svg');
+    background-image: url('img/reception.svg');
     background-repeat: no-repeat;
     background-size: contain;
     width: 64px;
@@ -503,7 +503,7 @@ link {
 }
 
 .img-security-box {
-    background-image: url('/img/security-box.svg');
+    background-image: url('img/security-box.svg');
     background-repeat: no-repeat;
     background-size: contain;
     width: 67px;
@@ -511,7 +511,7 @@ link {
 }
 
 .img-swimming-pool {
-    background-image: url('/img/swimming-pool.svg');
+    background-image: url('img/swimming-pool.svg');
     background-repeat: no-repeat;
     background-size: contain;
     width: 64px;
@@ -620,7 +620,7 @@ link {
     padding-bottom: 34px;
     padding-left: 53px;
     padding-right: 53px;
-    background-image: url("/img/card9.png");
+    background-image: url("img/card9.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -631,7 +631,7 @@ link {
     font-weight: 500;
     font-size: 20px;
     color: white;
-    background-image: url("/img/Rectangle-white.svg");
+    background-image: url("img/Rectangle-white.svg");
     background-position: right center;
     background-repeat: no-repeat;
 }
@@ -801,7 +801,7 @@ link {
 .section-contacts_right {
     min-width: 653px;
     min-height: 528px;
-    background-image: url(/img/contacts-foto.png) ;
+    background-image: url(img/contacts-foto.png) ;
     background-repeat: no-repeat;
     background-size: contain;
 }
@@ -824,7 +824,7 @@ link {
     border-radius: 15px;
     display: flex;
     justify-content: space-between;
-    background-image: url('/img/footer-logo.svg');
+    background-image: url('img/footer-logo.svg');
     background-repeat: no-repeat;
     background-position: 739px bottom;
     background-color: var(--black-color);
@@ -892,13 +892,13 @@ link {
 }
 
 .icon__triipadvisor {
-    background-image: url('/img/tripadvisor-icon.svg');
+    background-image: url('img/tripadvisor-icon.svg');
 }
 
 .icon__ok {
-    background-image: url('/img/ok-icon.svg');
+    background-image: url('img/ok-icon.svg');
 }
 
 .icon__vk {
-    background-image: url('/img/vk-icon.svg');
+    background-image: url('img/vk-icon.svg');
 }
